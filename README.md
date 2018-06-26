@@ -58,4 +58,4 @@ ENV AMQPURL=amqps://[policy name]:[policy key]@[yourServiceBus].servicebus.windo
 
 Make sure your _policy key_ is URL Encoded. Use a tool like: <https://www.url-encode-decode.com/>
 
-Bye!
+Bye! Bye!
