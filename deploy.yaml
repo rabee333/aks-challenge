@@ -35,7 +35,7 @@ spec:
             secretKeyRef:
               name: kuberneteschallenge2
               key: rabbitmq
-        imagePullSecrets:
+      imagePullSecrets:
         - name: cred
 ---
 apiVersion: v1
